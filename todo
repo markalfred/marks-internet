@@ -1,0 +1,16 @@
+todo:
+
+- get speed data
+- check if below "hardcoded" limits
+- format the alert
+
+- fake tweet the alert to "hardcoded" isp account
+- really tweet the alert to "hardcoded" isp account
+
+initial config of limits, isp
+
+log how long the internet has been so slow
+some graphs? analytics?
+
+find isp by IP
+find twitter handle by isp name
